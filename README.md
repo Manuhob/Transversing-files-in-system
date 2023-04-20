@@ -1,9 +1,9 @@
 # Transversing-files-in-system
-This is an exercise to write scripts on python to read and display files of the system.
+This is an exercise on writing scripts in python to read and display files of the system.
 
 ## The specifics
 
-The script searches for pdf files on the given directory, whose size is larger than 0.01 Mb and prints the first 20 results in the left first order.
+The script searches for pdf files on the given directory, whose size is larger than 0.01 Mb, and prints the first 20 results in the left-first order.
 
 ## How to use it
 
